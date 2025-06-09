@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **JavaScript**
+ 🌱 I’m currently learning **DevOps**
 
 
  </div>
